@@ -1,9 +1,12 @@
 {
   "name": "nextjs-dashboard-layout",
   "version": "0.1.0",
+  "homepage": "https://L-Havi.github.io/react-gh-pages",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -23,6 +26,7 @@
     "@types/styled-components": "^5.1.13",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.0",
+    "gh-pages": "^4.0.0",
     "typescript": "4.4.2"
   }
 }
