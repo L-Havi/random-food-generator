@@ -1,0 +1,46 @@
+.containerClass {
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding-bottom: 10%;
+}
+
+.containerClass p {
+    padding-top: 1rem;
+    font-size: larger;
+    padding-bottom: 1rem;
+}
+
+.infoText {
+    padding-top: 1rem;
+}
+
+.info {
+    padding-top: 1rem;
+    font-size: larger;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.containerClass h1 {
+    font-weight: bolder;
+    text-decoration: underline solid lightblue 5px;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.containerClass h2 {
+    font-weight: bold;
+    text-decoration: underline solid lightblue 5px;
+    padding-top: 1rem;
+}
+
+.infoText:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 20px;
+    border-bottom: 1px solid lightblue;
+}

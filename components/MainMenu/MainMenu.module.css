@@ -1,0 +1,63 @@
+.containerClass {
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding-bottom: 10%;
+    height: 90%;
+}
+
+.info {
+    padding-top: 1rem;
+    font-size: larger;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.infoText:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 20px;
+    border-bottom: 1px solid lightblue;
+}
+
+
+.containerClass h1 {
+    font-weight: bolder;
+    text-decoration: underline solid lightblue 5px;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.containerClass h2 {
+    font-weight: bolder;
+    text-decoration: underline solid lightblue 5px;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.buttonPanel button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 2px;
+    border-radius: 5px;
+    width: 7rem;
+    height: 2.4rem;
+    margin: 1rem;
+    text-align: center;
+    font-size: larger;
+}
+
+.buttonPanel button:hover {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+}
+
+.random {
+    padding-top: 1rem;
+    font-size: larger;
+}

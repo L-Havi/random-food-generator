@@ -1,0 +1,167 @@
+.containerClass {
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding-bottom: 10%;
+}
+
+.optionsClass {
+  padding-bottom: 2rem;
+}
+
+.optionsClass:after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 20px;
+  border-bottom: 1px solid lightblue;
+}
+
+.generateButtonClass {
+  margin-top: 2rem;
+}
+
+.button{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 2px;
+  border-radius: 5px;
+  width: 4rem;
+  height: 2rem;
+  text-align: center;
+  font-size: larger;
+}
+
+.button:hover {
+  background-color: white;
+  color: blue;
+  border: 1px solid blue;
+}
+
+.regenerateButton{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 2px;
+  border-radius: 20px;
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+  font-size: larger;
+}
+
+.regenerateButton:hover {
+  background-color: white;
+  color: blue;
+  border: 1px solid blue;
+}
+
+.goButton{
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 20rem;
+  height: 3rem;
+  text-align: center;
+  font-size: larger;
+}
+
+.goButton:hover {
+  background-color: white;
+  color: blue;
+  border: 1px solid blue;
+}
+
+.optionTitle{
+  margin-top: 3rem;
+  width: 100%;
+  text-align:center;
+  text-decoration: underline solid lightblue 3px;
+}
+
+.proteinClass {
+  text-align:center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.proteinClass:after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 20px;
+  border-bottom: 1px solid lightblue;
+}
+
+.proteinButtons {
+  font-weight: bold;
+  font-size: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  margin-left: 45%;
+  justify-content: center;
+  align-items: center;
+  width: 10%;
+}
+
+.proteinChoice {
+  padding-top: 10px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.proteinChoice fieldset{
+  padding:16px;	
+  border: 1px solid lightblue;
+  font-size: larger;
+  border-radius: 5px;
+}
+.proteinChoice legend{
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 3px;
+  color: black;
+  font-weight: bold;
+}
+
+.innerVegetableClass {
+  font-weight: bold;
+  font-size: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  margin-left: 45%;
+  justify-content: center;
+  align-items: center;
+  width: 10%;
+}
+
+.vegetableClass:after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  padding-top: 20px;
+  border-bottom: 1px solid lightblue;
+}
+
+.resultsHeader {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: underline solid lightblue 3px;
+}
+
+.resultsHeader {
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: underline solid lightblue 3px;
+}
+
+.mainTitle {
+  font-weight: bolder;
+  text-decoration: underline solid lightblue 5px;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
