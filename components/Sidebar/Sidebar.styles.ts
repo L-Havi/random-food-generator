@@ -10,4 +10,8 @@ export const SidebarContainer = styled.aside<SidebarContainerProps>`
   overflow: hidden;
   display: flex;
   flex-direction: column;
+
+  @media only screen and (max-width: 640px) {
+    min-width: ${(props) => (props.isOpened ? "100%" : "0vw")};
+  }
 `;

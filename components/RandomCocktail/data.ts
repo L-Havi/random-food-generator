@@ -1,4 +1,4 @@
-export const alcohols = ["Canadian Whiskey", "Bourbon", "Spiced Rum", "Brandy", "Gin", "Scotch Whiskey", "Vodka", "Golf Tequila", "White Rum", "Coffee Liqueur", "Irish Whiskey",
+export const alcohols = ["Canadian Whiskey", "Bourbon", "Spiced Rum", "Brandy", "Gin", "Scotch Whiskey", "Vodka", "Gold Tequila", "White Rum", "Coffee Liqueur", "Irish Whiskey",
 "Silver Tequila", "Absinthe", "Cognac", "Calvados", "Cream Liqueur", "Chocolate Liqueur", "Berry Liqueur", "Creme Liqueur", "Flower Liqueur", "Fruit Liqueur", "Honey Liqueur",
 "Nut Liqueur", "White Wine", "Red Wine", "Rose Wine", "Champagne"];
 

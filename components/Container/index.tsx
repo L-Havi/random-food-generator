@@ -10,7 +10,7 @@ export default function Container({ title, children }: ContainerProps) {
     <>
       <Head>
         <title className="">{title}</title>
-        <meta name="description" content="Nextjs Dashboard Layout" />
+        <meta name="description" content="Roll for food is a website where you can randomly generate ingredients for your next meal." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {children}

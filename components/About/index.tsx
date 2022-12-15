@@ -9,6 +9,7 @@ export default function About(){
         <div className={styles.containerClass}>
             <div className={styles.infoText}>
                 <p className={styles.info}>Roll for food is a website created to let randomness to choose your next meal. The idea for this website is based on Adventures In Aardia&#8217;s Roll for Sandwich series on TikTok.</p>
+                <p className={styles.info}>Any suggestions & other contacts regarding the site to email address: support@rollforfood.com</p>
             </div>
             <div className={styles.faq}>
                 <div className={styles.faqTitle}>

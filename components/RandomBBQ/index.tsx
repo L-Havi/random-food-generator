@@ -194,7 +194,7 @@ export default function RandomBBQ() {
                   name="cheeseoptionchoice"
                   value="1"
                   id="allcheeses"
-                  checked
+                  defaultChecked
                   onChange={cheeseRadioHandler}
                 />
                 <label htmlFor="allcheeses">All options</label>

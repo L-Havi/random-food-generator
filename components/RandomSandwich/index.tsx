@@ -280,7 +280,7 @@ export default function RandomSandwich() {
                   name="meatoptionchoice"
                   value="1"
                   id="all"
-                  checked
+                  defaultChecked
                   onChange={radioHandler}
                 />
                 <label htmlFor="all">All options</label>
@@ -336,7 +336,7 @@ export default function RandomSandwich() {
                   name="cheeseoptionchoice"
                   value="1"
                   id="allcheeses"
-                  checked
+                  defaultChecked
                   onChange={cheeseRadioHandler}
                 />
                 <label htmlFor="allcheeses">All options</label>
