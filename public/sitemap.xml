@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-   <url>
+      <url>
 
-      <loc>https://rollforfood.com/</loc>
+         <loc>https://rollforfood.com/</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-   </url>
+      </url>
 
-   <url>
+      <url>
 
-      <loc>https://rollforfood.com/roll-a-food</loc>
+         <loc>https://rollforfood.com/roll-a-food</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-   </url>
+      </url>
 
-   <url>
+      <url>
 
-      <loc>hhttps://rollforfood.com/bbq</loc>
+         <loc>hhttps://rollforfood.com/bbq</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-   </url>
+      </url>
 
-   <url>
+      <url>
 
-      <loc>https://rollforfood.com/cocktail</loc>
+         <loc>https://rollforfood.com/cocktail</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-   </url>
+      </url>
 
-    <url>
+       <url>
 
-      <loc>https://rollforfood.com/pasta</loc>
+         <loc>https://rollforfood.com/pasta</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-    </url>
+       </url>
 
-    <url>
+       <url>
 
-      <loc>https://rollforfood.com/pizza</loc>
+         <loc>https://rollforfood.com/pizza</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-    </url>
+       </url>
 
-    <url>
+       <url>
 
-      <loc>https://rollforfood.com/ramen</loc>
+         <loc>https://rollforfood.com/ramen</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-    </url>
+       </url>
 
-    <url>
+       <url>
 
-      <loc>https://rollforfood.com/sandwich</loc>
+         <loc>https://rollforfood.com/sandwich</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-    </url>
+       </url>
 
-    <url>
+       <url>
 
-      <loc>https://rollforfood.com/sushi</loc>
+         <loc>https://rollforfood.com/sushi</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-    </url>
+       </url>
 
-    <url>
+       <url>
 
-      <loc>https://rollforfood.com/about</loc>
+         <loc>https://rollforfood.com/about</loc>
 
-      <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-16</lastmod>
 
-    </url>
+       </url>
 
-</urlset>
+   </urlset>
 
 </xml>
