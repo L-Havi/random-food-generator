@@ -5,7 +5,7 @@ export const alcohols = ["Canadian Whiskey", "Bourbon", "Spiced Rum", "Brandy", 
 export const mixers = ["Orange Juice", "Cola", "Apple Juice", "Syrup", "Water", "Carbonated Water", "Tonic", "Sugar Cube", "Lemon Juice", "Lime Juice", "Bitters", "Vermouth",
 "Beer", "Pineapple Juice", "Energy Drink", "Coffee", "Ice Tea", "Ginger Ale", "Lemon-Lime Soda (Sprite, 7Up etc.)", "Root Beer", "Cream", "Eggnog", "Ice Cream", "Milk",
 "Apple Cider", "Coconut Milk", "Cranberry Juice", "Long Drink", "Grape Juice", "Grapefruit Juice", "Lemonade", "Limeade", "Mojito Mix", "Bloody Mary Mix", "Cosmopolitan Mix",
-"Hot Toddy Mix", "Margarita Mix", "Strawberry Daiquiri Mix", "Honey", "Hot Sauce", "Sports Drink", "Smirnoff Ice", "Egg White"];
+"Hot Toddy Mix", "Margarita Mix", "Strawberry Daiquiri Mix", "Honey", "Hot Sauce", "Sports Drink", "Smirnoff Ice", "Egg White", "Orange Soda (Fanta etc.)"];
 
 export const ices = ["No Ice", "Big Cubes", "Crushed Ice", "Stones", "Spheres", "Small Cubes"];
 

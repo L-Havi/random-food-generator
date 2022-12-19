@@ -220,7 +220,7 @@ export default function RandomRamen() {
           </div>
         </div>
         <div className={styles.optionTitle}>
-         <h2>Condiments</h2>
+         <h2>Sauces</h2>
         </div>
         <div className={styles.vegetableClass}>
           <div className={styles.innerVegetableClass}>
@@ -255,7 +255,7 @@ export default function RandomRamen() {
         <p className={styles.resultsText}>
           {condimentChoice} { showResults ? <button className={styles.regenerateButton} onClick={() => generateCondiments(condimentCount)}>&#8634;</button> : null }
         </p>
-        <h2 className={styles.resultsHeader}>Condiments</h2>
+        <h2 className={styles.resultsHeader}>Sauces</h2>
         <p className={styles.resultsText}>
           {sauceChoice} { showResults ? <button className={styles.regenerateButton} onClick={() => generateSauces(sauceCount)}>&#8634;</button> : null }
         </p>

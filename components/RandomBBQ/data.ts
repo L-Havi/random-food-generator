@@ -1,4 +1,5 @@
-export const meat = ["Beef", "Pork", "Chicken", "Seafood", "Turkey"];
+export const meat = ["Briskets", "Clods","Tri-tips","Back Ribs","Beef Short Ribs", "Tomahawk Steak", "T-Bone Steak", "Pork Shoulder", "Chicken", "Seafood", "Turkey", "Lamb Chops", "Leg of Lamb",
+"Kebabs", "Pork Chops"];
 
 export const binders = ["Mustard", "Worchestershire Sauce", "Hot Sauce", "Tallow", "Oil"];
 

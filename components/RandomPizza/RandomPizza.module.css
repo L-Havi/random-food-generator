@@ -174,4 +174,15 @@
     margin-left: 10%;
     margin-right: 10%;
   }
+  
+  .goButton{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 15rem;
+    height: 3rem;
+    text-align: center;
+    font-size: larger;
+  }
 }
