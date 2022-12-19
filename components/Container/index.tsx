@@ -19,7 +19,7 @@ export default function Container({ title, children }: ContainerProps) {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-J97GR7DLV8', {
+            gtag('config', '${siteMetadata.analytics.googleAnalyticsId}', {
               page_path: window.location.pathname,
             });
           `,
